@@ -11,3 +11,6 @@ This second stage involves training a ResNet34 classifer on Acevedo white blood 
 ## Feature Extraction
 
 This third stage involves... (TBA)
+
+
+![image](Picture1.png)
